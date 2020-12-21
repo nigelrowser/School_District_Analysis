@@ -15,9 +15,15 @@ District Summary 2
 
 ###School Summary
 
+In the results before removing the ninth grade data Thomas High School was regarded as a school with high reading and math scores. Below you can see the data:
+
 Results before removing data
 <img width="976" alt="Screen Shot 2020-12-21 at 8 39 55 AM" src="https://user-images.githubusercontent.com/74877648/102782940-2f0d6980-4368-11eb-8e32-2e251784e9e3.png">
 
 Results after removing data
+<img width="971" alt="Screen Shot 2020-12-21 at 8 45 54 AM" src="https://user-images.githubusercontent.com/74877648/102783639-3bde8d00-4369-11eb-8e7a-454f373acc77.png">
+
+
+After the ninth grade data was removed the performance of Thomas High School plummeted. After the removal Thomas is considered a lower tier school when comparing its performance to other schools.
 
 # Summary
