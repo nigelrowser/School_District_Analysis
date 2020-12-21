@@ -7,6 +7,9 @@ District Summary
 
 When looking at this data a very slight noticeable change has occured between the two data results. In my first analysis you can see that the passing math and reading percentage were slightly higher then the results on stemming from the second analysis. In District Summary 1, the passing percentages were %75 and %85.8. The ooverall passing percentage was also higher which came in at %65.2. In District Summary 2, the passing percentages were %74.8 and %85.7 respectively. The overall passing percentage was %64.9. Although removing the ninth grade data from Thomas High School didn't cause a high difference a conclusion can be made that the data from Thomas High School ninth graders boosted the percentages in reading and math.
 
+District Summary 1
+![image](https://user-images.githubusercontent.com/74877648/102781458-b60d1280-4365-11eb-8374-38cda5d219d9.png)
+
 School Summary
 
 # Summary
