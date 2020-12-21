@@ -26,4 +26,12 @@ Results after removing data
 
 After the ninth grade data was removed the performance of Thomas High School plummeted. After the removal Thomas is considered a lower tier school when comparing its performance to other schools.
 
+### 
+
 ## Summary
+
+### Major Changes
+
+1. The overall passing percentage for Thomas High School dropped to %65.1 after removing the ninth grade data
+2. The passing reading percentage for Thomas High School dropped to %69.7 after removing the ninth grade data
+
