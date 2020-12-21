@@ -18,4 +18,7 @@ District Summary 2
 Results before removing data
 <img width="976" alt="Screen Shot 2020-12-21 at 8 39 55 AM" src="https://user-images.githubusercontent.com/74877648/102782940-2f0d6980-4368-11eb-8e32-2e251784e9e3.png">
 
+Results after removing data
+<img width="976" alt="Screen Shot 2020-12-21 at 8 39 55 AM" src="https://user-images.githubusercontent.com/74877648/102783480-fde16900-4368-11eb-9cd0-654ebda26b52.png">
+
 # Summary
